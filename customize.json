@@ -1,0 +1,23 @@
+{
+  "greeting": "很荣幸认识你",
+  "name": "亲爱的张杨梓桐",
+  "greetingText": "I really like your name btw!",
+  "wishText": "我会永远和你在一起的！",
+  "imagePath": "img/zyzt.png",
+  "text1": "今天是你的生日:D",
+  "textInChatBox": "生日快乐！天天开心...blablabla...",
+  "sendButtonLabel": "Send",
+  "text2": "我本来想这样给你过生日",
+  "text3": "但是我想了想 好像有些普通",
+  "text4": "我意识到应该做一些",
+  "text4Adjective": "特别的",
+  "text5Entry": "因为...",
+  "text5Content": "你很特别",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, 现在告诉我你喜欢这个小惊喜么",
+  "replayText": "或者，单击一下再看一次",
+  "outroSmiley": ":)"
+}
